@@ -1,4 +1,4 @@
-###Setup dev environment for Nordic nRF9160DK and Thingy91
+### Setup dev environment for Nordic nRF9160DK and Thingy91
 
 1. download nRF Connect for Desktop
    https://www.nordicsemi.com/Software-and-tools/Development-Tools/nRF-Connect-for-desktop
